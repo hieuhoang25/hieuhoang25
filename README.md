@@ -15,6 +15,8 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="spring" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="spring" width="40" height="40"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" alt="spring" width="40" height="40"/> </a>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="spring" width="40" height="40"/> </a>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="spring" width="40" height="40"/> </a>
 </p>
 
 
